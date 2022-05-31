@@ -1,0 +1,12 @@
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\bin\Debug\net6.0\Telegram.Bot.BorisExtensions.deps.json
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\bin\Debug\net6.0\Telegram.Bot.BorisExtensions.dll
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\bin\Debug\net6.0\ref\Telegram.Bot.BorisExtensions.dll
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\bin\Debug\net6.0\Telegram.Bot.BorisExtensions.pdb
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.csproj.AssemblyReference.cache
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.AssemblyInfoInputs.cache
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.AssemblyInfo.cs
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.csproj.CoreCompileInputs.cache
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.dll
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\ref\Telegram.Bot.BorisExtensions.dll
+C:\Users\karka\RiderProjects\CryptoBot\Telegram.Bot.BorisExtensions\obj\Debug\net6.0\Telegram.Bot.BorisExtensions.pdb
